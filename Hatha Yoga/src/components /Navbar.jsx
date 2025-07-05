@@ -29,7 +29,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-16">
           <div className="flex-shrink-0">
             <h1 className={`text-xl font-bold ${scrolled ? 'text-orange-600' : 'text-white'}`}>
-              Dhyana Hatha Yoga
+              Yogic Nexus Yoga
             </h1>
           </div>
 

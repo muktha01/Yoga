@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="absolute inset-0 bg-black/20"></div>
       <div className="relative z-10 text-center text-white px-4">
         <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
-          Dhyana Hatha Yoga
+          Yogic Nexus Yoga
         </h1>
         <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto">
           Classical Hatha Yoga in its full depth and dimension. Transform your body and mind through ancient yogic practices.

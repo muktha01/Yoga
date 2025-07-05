@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid md:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-xl font-bold mb-4">Dhyana Hatha Yoga</h3>
+            <h3 className="text-xl font-bold mb-4">Yogic Nexus Yoga</h3>
             <p className="text-gray-400 mb-4">
               Offering classical Hatha Yoga in its full depth and dimension for your complete transformation.
             </p>
@@ -53,7 +53,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; 2025 Dhyana Hatha Yoga. All rights reserved.</p>
+          <p>&copy; 2025 Yogic Nexus Yoga. All rights reserved.</p>
         </div>
       </div>
     </footer>
